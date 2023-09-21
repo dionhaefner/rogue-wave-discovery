@@ -1,3 +1,8 @@
+# Generated and data files
+experiments/executed/*
+plots/generated/*
+data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

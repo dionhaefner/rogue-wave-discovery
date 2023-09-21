@@ -1,0 +1,17 @@
+papermill==2.4.0
+jupyter==1.0.0
+jax[cpu]==0.4.13
+seaborn==0.12.2
+optax==0.1.5
+pandas==1.5.3
+flax==0.6.11
+numpy==1.25.0
+matplotlib==3.7.1
+scipy==1.10.1
+PyALE==1.1.3
+pysr==0.16.0
+scikit-learn==1.3.1
+sympy==1.12
+tqdm==4.66.1
+aquarel==0.0.5
+watermark==2.4.3
