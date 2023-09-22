@@ -34,9 +34,10 @@ def convert_log_features(df):
         feature_stripped = feature[: -len("_log10")]
         df[feature_stripped] = 10 ** df[feature]
 
-    for feature in (
-        "direction_directionality_index",
-    ):
+    for feature in df.columns:
+        if not feature.endswith("directionality_index"):
+            continue
+
         df[f"{feature}_log10"] = np.log10(df[feature])
 
     return df

@@ -22,7 +22,7 @@ Execute all 24 experiments and save the results in `experiments/executed`, along
 
 ```bash
 $ cd experiments
-$ bash run_all.sh
+$ bash run_all.sh ../data
 ```
 
 **Note:** This will take a long time (about 2 days on a 16-core machine) and requires at least 64 GB of RAM.
@@ -31,7 +31,7 @@ $ bash run_all.sh
 
 ```bash
 $ cd plots
-$ bash run_all.sh
+$ bash run_all.sh ../data results.json
 ```
 
 The figures will be saved in `plots/generated`.
