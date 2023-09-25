@@ -22,20 +22,7 @@
                 0.0016141355948522686,
                 0.026189036460220336
             ],
-            "test_score_ecmwf": 4.67e-05,
-            "calibration_err_test_ecmwf": 0.334,
-            "pred_range_test_ecmwf": [
-                0.0018982263742014765,
-                0.05422670359313181
-            ],
-            "test_score_ecmwf_corr": 0.000469,
-            "calibration_err_test_ecmwf_corr": 0.18,
-            "pred_range_test_ecmwf_corr": [
-                0.001987659160234034,
-                0.027259362740811366
-            ],
             "test_score_subsets": 0.000524,
-            "test_score_subsets_ecmwf_corr": 0.000285,
             "consistency_err": 0.105,
             "consistency_score": 0.000543
         },
@@ -67,20 +54,7 @@
                 0.002264654309116304,
                 0.0193842365594397
             ],
-            "test_score_ecmwf": 0.000518,
-            "calibration_err_test_ecmwf": 0.163,
-            "pred_range_test_ecmwf": [
-                0.002268821282722056,
-                0.018942873606178932
-            ],
-            "test_score_ecmwf_corr": 0.000509,
-            "calibration_err_test_ecmwf_corr": 0.167,
-            "pred_range_test_ecmwf_corr": [
-                0.002594615045902319,
-                0.01739509730288761
-            ],
             "test_score_subsets": 0.000491,
-            "test_score_subsets_ecmwf_corr": 0.000339,
             "consistency_err": 0.0823,
             "consistency_score": 0.000451
         },
@@ -116,20 +90,7 @@
                 0.0013901448162272573,
                 0.023640800163149664
             ],
-            "test_score_ecmwf": 0.00011,
-            "calibration_err_test_ecmwf": 0.301,
-            "pred_range_test_ecmwf": [
-                0.0021104714050889017,
-                0.03346446642875671
-            ],
-            "test_score_ecmwf_corr": 0.000497,
-            "calibration_err_test_ecmwf_corr": 0.165,
-            "pred_range_test_ecmwf_corr": [
-                0.002027960578352213,
-                0.02176766745448106
-            ],
             "test_score_subsets": 0.000527,
-            "test_score_subsets_ecmwf_corr": 0.000351,
             "consistency_err": 0.0994,
             "consistency_score": 0.000542
         },
@@ -166,20 +127,7 @@
                 0.0015913847752846778,
                 0.03014606827199443
             ],
-            "test_score_ecmwf": -4.9e-05,
-            "calibration_err_test_ecmwf": 0.365,
-            "pred_range_test_ecmwf": [
-                0.002272479806281626,
-                0.04312994971573339
-            ],
-            "test_score_ecmwf_corr": 0.000498,
-            "calibration_err_test_ecmwf_corr": 0.155,
-            "pred_range_test_ecmwf_corr": [
-                0.0022066216912120583,
-                0.02462346995323895
-            ],
             "test_score_subsets": 0.000538,
-            "test_score_subsets_ecmwf_corr": 0.000361,
             "consistency_err": 0.0999,
             "consistency_score": 0.000546
         },
@@ -217,20 +165,7 @@
                 0.0014940260482020676,
                 0.0271244038507342
             ],
-            "test_score_ecmwf": 6.77e-05,
-            "calibration_err_test_ecmwf": 0.327,
-            "pred_range_test_ecmwf": [
-                0.0018599142098799349,
-                0.03606828336119579
-            ],
-            "test_score_ecmwf_corr": 0.000453,
-            "calibration_err_test_ecmwf_corr": 0.192,
-            "pred_range_test_ecmwf_corr": [
-                0.0020122583920136093,
-                0.023566824138164265
-            ],
             "test_score_subsets": 0.000566,
-            "test_score_subsets_ecmwf_corr": 0.000346,
             "consistency_err": 0.124,
             "consistency_score": 0.000599
         },
@@ -268,20 +203,7 @@
                 0.0015262581545859575,
                 0.02423882312625645
             ],
-            "test_score_ecmwf": 0.000176,
-            "calibration_err_test_ecmwf": 0.262,
-            "pred_range_test_ecmwf": [
-                0.001480159400869161,
-                0.03546845883727055
-            ],
-            "test_score_ecmwf_corr": 0.000509,
-            "calibration_err_test_ecmwf_corr": 0.142,
-            "pred_range_test_ecmwf_corr": [
-                0.0019712738225236533,
-                0.023942727701365876
-            ],
             "test_score_subsets": 0.000533,
-            "test_score_subsets_ecmwf_corr": 0.000389,
             "consistency_err": 0.118,
             "consistency_score": 0.000582
         },
@@ -318,20 +240,7 @@
                 0.0013855632525868714,
                 0.022990175680816155
             ],
-            "test_score_ecmwf": 0.000142,
-            "calibration_err_test_ecmwf": 0.282,
-            "pred_range_test_ecmwf": [
-                0.002046183140948415,
-                0.032183005923032484
-            ],
-            "test_score_ecmwf_corr": 0.000492,
-            "calibration_err_test_ecmwf_corr": 0.154,
-            "pred_range_test_ecmwf_corr": [
-                0.001979337544925511,
-                0.02151192365735765
-            ],
             "test_score_subsets": 0.00052,
-            "test_score_subsets_ecmwf_corr": 0.000351,
             "consistency_err": 0.112,
             "consistency_score": 0.000553
         },
@@ -369,20 +278,7 @@
                 0.001735306384600699,
                 0.03141535676717735
             ],
-            "test_score_ecmwf": -4.64e-05,
-            "calibration_err_test_ecmwf": 0.386,
-            "pred_range_test_ecmwf": [
-                0.002319893535412848,
-                0.05684061923921081
-            ],
-            "test_score_ecmwf_corr": 0.000494,
-            "calibration_err_test_ecmwf_corr": 0.136,
-            "pred_range_test_ecmwf_corr": [
-                0.0021994465030729772,
-                0.024780455876886733
-            ],
             "test_score_subsets": 0.000534,
-            "test_score_subsets_ecmwf_corr": 0.000365,
             "consistency_err": 0.11,
             "consistency_score": 0.000562
         },
@@ -418,20 +314,7 @@
                 0.0013757635761983693,
                 0.034147764199971405
             ],
-            "test_score_ecmwf": -0.000206,
-            "calibration_err_test_ecmwf": 0.439,
-            "pred_range_test_ecmwf": [
-                0.001902748662419617,
-                0.05331990072727173
-            ],
-            "test_score_ecmwf_corr": 0.000482,
-            "calibration_err_test_ecmwf_corr": 0.146,
-            "pred_range_test_ecmwf_corr": [
-                0.0017710752371698619,
-                0.02611417577713727
-            ],
             "test_score_subsets": 0.000545,
-            "test_score_subsets_ecmwf_corr": 0.000342,
             "consistency_err": 0.135,
             "consistency_score": 0.000586
         },
@@ -465,20 +348,7 @@
                 0.001997981454131659,
                 0.020790523115359418
             ],
-            "test_score_ecmwf": 0.000502,
-            "calibration_err_test_ecmwf": 0.163,
-            "pred_range_test_ecmwf": [
-                0.0020720392974326388,
-                0.02100543670969086
-            ],
-            "test_score_ecmwf_corr": 0.000508,
-            "calibration_err_test_ecmwf_corr": 0.113,
-            "pred_range_test_ecmwf_corr": [
-                0.0024776113663450817,
-                0.018617116862032608
-            ],
             "test_score_subsets": 0.000521,
-            "test_score_subsets_ecmwf_corr": 0.000351,
             "consistency_err": 0.11,
             "consistency_score": 0.00052
         },
@@ -512,20 +382,7 @@
                 0.001564753444865346,
                 0.02476740517318246
             ],
-            "test_score_ecmwf": 0.000165,
-            "calibration_err_test_ecmwf": 0.299,
-            "pred_range_test_ecmwf": [
-                0.002052092670276761,
-                0.039725801169870886
-            ],
-            "test_score_ecmwf_corr": 0.000469,
-            "calibration_err_test_ecmwf_corr": 0.195,
-            "pred_range_test_ecmwf_corr": [
-                0.0018960429458878935,
-                0.02363297461122203
-            ],
             "test_score_subsets": 0.00049,
-            "test_score_subsets_ecmwf_corr": 0.000288,
             "consistency_err": 0.114,
             "consistency_score": 0.000531
         },
@@ -559,20 +416,7 @@
                 0.0016424752824008464,
                 0.03215879859030138
             ],
-            "test_score_ecmwf": -0.00017,
-            "calibration_err_test_ecmwf": 0.41,
-            "pred_range_test_ecmwf": [
-                0.002011158946529031,
-                0.05472155627310268
-            ],
-            "test_score_ecmwf_corr": 0.000494,
-            "calibration_err_test_ecmwf_corr": 0.183,
-            "pred_range_test_ecmwf_corr": [
-                0.0019664907455444335,
-                0.02526130317002525
-            ],
             "test_score_subsets": 0.000535,
-            "test_score_subsets_ecmwf_corr": 0.00036,
             "consistency_err": 0.115,
             "consistency_score": 0.000541
         },
@@ -606,20 +450,7 @@
                 0.004574476220086217,
                 0.027348194397985776
             ],
-            "test_score_ecmwf": -0.000692,
-            "calibration_err_test_ecmwf": 0.511,
-            "pred_range_test_ecmwf": [
-                0.0044297690652310845,
-                0.04811154182553226
-            ],
-            "test_score_ecmwf_corr": 8.72e-05,
-            "calibration_err_test_ecmwf_corr": 0.128,
-            "pred_range_test_ecmwf_corr": [
-                0.004593006134778261,
-                0.022782198661565684
-            ],
             "test_score_subsets": -0.000161,
-            "test_score_subsets_ecmwf_corr": -0.000219,
             "consistency_err": 0.248,
             "consistency_score": -1.28e-05
         },
@@ -654,20 +485,7 @@
                 0.001811036467179656,
                 0.027182854825258233
             ],
-            "test_score_ecmwf": 0.000408,
-            "calibration_err_test_ecmwf": 0.191,
-            "pred_range_test_ecmwf": [
-                0.0019996478056535124,
-                0.02759484867453574
-            ],
-            "test_score_ecmwf_corr": 0.000451,
-            "calibration_err_test_ecmwf_corr": 0.126,
-            "pred_range_test_ecmwf_corr": [
-                0.0022937792537733913,
-                0.022667657487094397
-            ],
             "test_score_subsets": 0.00058,
-            "test_score_subsets_ecmwf_corr": 0.000355,
             "consistency_err": 0.116,
             "consistency_score": 0.000583
         },
@@ -703,20 +521,7 @@
                 0.0015552376696839928,
                 0.030727183943985645
             ],
-            "test_score_ecmwf": 9.02e-05,
-            "calibration_err_test_ecmwf": 0.319,
-            "pred_range_test_ecmwf": [
-                0.0018679248064756393,
-                0.0439155761599536
-            ],
-            "test_score_ecmwf_corr": 0.000455,
-            "calibration_err_test_ecmwf_corr": 0.176,
-            "pred_range_test_ecmwf_corr": [
-                0.0017898510303348302,
-                0.024021721042692637
-            ],
             "test_score_subsets": 0.000552,
-            "test_score_subsets_ecmwf_corr": 0.000346,
             "consistency_err": 0.128,
             "consistency_score": 0.000618
         },
@@ -753,20 +558,7 @@
                 0.0017035552077926696,
                 0.03499135909378389
             ],
-            "test_score_ecmwf": -0.00115,
-            "calibration_err_test_ecmwf": 0.695,
-            "pred_range_test_ecmwf": [
-                0.00039346055367495863,
-                0.0617733916610477
-            ],
-            "test_score_ecmwf_corr": 0.000119,
-            "calibration_err_test_ecmwf_corr": 0.199,
-            "pred_range_test_ecmwf_corr": [
-                0.002105656631104648,
-                0.019835516111552685
-            ],
             "test_score_subsets": 0.000382,
-            "test_score_subsets_ecmwf_corr": -7.49e-05,
             "consistency_err": 0.136,
             "consistency_score": 0.000393
         },
@@ -803,20 +595,7 @@
                 0.0018384022118523716,
                 0.03731881943047007
             ],
-            "test_score_ecmwf": 0.000165,
-            "calibration_err_test_ecmwf": 0.335,
-            "pred_range_test_ecmwf": [
-                0.002205996354483068,
-                0.06219399044215558
-            ],
-            "test_score_ecmwf_corr": 0.000486,
-            "calibration_err_test_ecmwf_corr": 0.158,
-            "pred_range_test_ecmwf_corr": [
-                0.0023351728294044734,
-                0.02782429605126375
-            ],
             "test_score_subsets": 0.00056,
-            "test_score_subsets_ecmwf_corr": 0.000346,
             "consistency_err": 0.106,
             "consistency_score": 0.000541
         },
@@ -854,20 +633,7 @@
                 0.001877092991769314,
                 0.028591604973375748
             ],
-            "test_score_ecmwf": 0.00038,
-            "calibration_err_test_ecmwf": 0.173,
-            "pred_range_test_ecmwf": [
-                0.0014938386413268746,
-                0.030582834495604026
-            ],
-            "test_score_ecmwf_corr": 0.000476,
-            "calibration_err_test_ecmwf_corr": 0.114,
-            "pred_range_test_ecmwf_corr": [
-                0.0023541612412780522,
-                0.024266214452683857
-            ],
             "test_score_subsets": 0.000603,
-            "test_score_subsets_ecmwf_corr": 0.000373,
             "consistency_err": 0.113,
             "consistency_score": 0.000606
         },
@@ -908,20 +674,7 @@
                 0.0015845786894671619,
                 0.02536986675262433
             ],
-            "test_score_ecmwf": 0.000411,
-            "calibration_err_test_ecmwf": 0.195,
-            "pred_range_test_ecmwf": [
-                0.0007991648190654814,
-                0.025260681219398805
-            ],
-            "test_score_ecmwf_corr": 0.000466,
-            "calibration_err_test_ecmwf_corr": 0.134,
-            "pred_range_test_ecmwf_corr": [
-                0.0014897261441685259,
-                0.02485726960152382
-            ],
             "test_score_subsets": 0.000574,
-            "test_score_subsets_ecmwf_corr": 0.000359,
             "consistency_err": 0.118,
             "consistency_score": 0.000585
         },
@@ -961,20 +714,7 @@
                 0.0017999716036953032,
                 0.029039709872007283
             ],
-            "test_score_ecmwf": 0.000298,
-            "calibration_err_test_ecmwf": 0.233,
-            "pred_range_test_ecmwf": [
-                0.001943169025797397,
-                0.03702983465790739
-            ],
-            "test_score_ecmwf_corr": 0.00047,
-            "calibration_err_test_ecmwf_corr": 0.133,
-            "pred_range_test_ecmwf_corr": [
-                0.0023092883568257092,
-                0.026342536178231128
-            ],
             "test_score_subsets": 0.000547,
-            "test_score_subsets_ecmwf_corr": 0.000315,
             "consistency_err": 0.111,
             "consistency_score": 0.000541
         },
@@ -1016,20 +756,7 @@
                 0.0013166012299247085,
                 0.9992340751171105
             ],
-            "test_score_ecmwf": 0.000337,
-            "calibration_err_test_ecmwf": 0.348,
-            "pred_range_test_ecmwf": [
-                0.0005272274879738689,
-                0.031033097779750794
-            ],
-            "test_score_ecmwf_corr": 0.000472,
-            "calibration_err_test_ecmwf_corr": 0.209,
-            "pred_range_test_ecmwf_corr": [
-                0.0015964920239523053,
-                0.028437363983690733
-            ],
             "test_score_subsets": 0.000112,
-            "test_score_subsets_ecmwf_corr": 0.000352,
             "consistency_err": 0.195,
             "consistency_score": 0.000651
         },
@@ -1066,20 +793,7 @@
                 0.001286984260380268,
                 0.02693368080109344
             ],
-            "test_score_ecmwf": 0.000151,
-            "calibration_err_test_ecmwf": 0.293,
-            "pred_range_test_ecmwf": [
-                0.002117476064898074,
-                0.03327210709154587
-            ],
-            "test_score_ecmwf_corr": 0.000458,
-            "calibration_err_test_ecmwf_corr": 0.145,
-            "pred_range_test_ecmwf_corr": [
-                0.001824536884855479,
-                0.023355262127518654
-            ],
             "test_score_subsets": 0.000558,
-            "test_score_subsets_ecmwf_corr": 0.000341,
             "consistency_err": 0.141,
             "consistency_score": 0.000619
         },
@@ -1117,20 +831,7 @@
                 0.0013672885107807815,
                 0.03029873463064391
             ],
-            "test_score_ecmwf": 9.63e-05,
-            "calibration_err_test_ecmwf": 0.267,
-            "pred_range_test_ecmwf": [
-                0.0009482708849012851,
-                0.03950358506441103
-            ],
-            "test_score_ecmwf_corr": 0.000489,
-            "calibration_err_test_ecmwf_corr": 0.0664,
-            "pred_range_test_ecmwf_corr": [
-                0.002329601537063718,
-                0.023257103252410764
-            ],
             "test_score_subsets": 0.000579,
-            "test_score_subsets_ecmwf_corr": 0.000394,
             "consistency_err": 0.157,
             "consistency_score": 0.000642
         },
@@ -1169,20 +870,7 @@
                 0.0012075403592549264,
                 0.027233781436085507
             ],
-            "test_score_ecmwf": 4.05e-05,
-            "calibration_err_test_ecmwf": 0.264,
-            "pred_range_test_ecmwf": [
-                0.0010546137969940901,
-                0.0382178077846763
-            ],
-            "test_score_ecmwf_corr": 0.000436,
-            "calibration_err_test_ecmwf_corr": 0.122,
-            "pred_range_test_ecmwf_corr": [
-                0.002017819055728614,
-                0.02456239769011736
-            ],
             "test_score_subsets": 0.00062,
-            "test_score_subsets_ecmwf_corr": 0.000328,
             "consistency_err": 0.17,
             "consistency_score": 0.00066
         },
